@@ -1,12 +1,13 @@
 streamlit
+python-dotenv
 langchain
-langchain-core
 langchain-community
+langchain-core
+langchain-text-splitters
 langchain-mistralai
 langchain-huggingface
-langchain-text-splitters
 chromadb
+sentence-transformers
 beautifulsoup4
-pypdf
-python-dotenv
+lxml
 rich
