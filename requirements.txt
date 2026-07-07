@@ -8,6 +8,8 @@ langchain-mistralai
 langchain-huggingface
 chromadb
 sentence-transformers
+transformers
+torch
 beautifulsoup4
 lxml
 rich
