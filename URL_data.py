@@ -13,7 +13,7 @@ from rich import print
 load_dotenv()
 
 llm = ChatMistralAI(model="mistral-small-2603")
-embedding = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
+embedding = HuggingFaceEmbeddings(model_name="Qwen/Qwen3-Embedding-0.6B")
 
 st.set_page_config(
     page_title="Website Chat",
