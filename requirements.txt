@@ -13,3 +13,4 @@ torch
 beautifulsoup4
 lxml
 rich
+torchvision
